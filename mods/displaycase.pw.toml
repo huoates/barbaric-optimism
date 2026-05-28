@@ -1,0 +1,13 @@
+name = "Display Case"
+filename = "display_case-neoforge-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be5c53a70ea70f8f6ea1a861d68b99a15a2de8ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6360921
+project-id = 517791

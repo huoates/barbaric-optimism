@@ -90,6 +90,11 @@ hash = "4f38a1932a493c7b100f13356c65bf1cc4d43e4cb3430d428202452d1d5800a0"
 metafile = true
 
 [[files]]
+file = "mods/c2me.pw.toml"
+hash = "726334adfd226c815c78ecf79169a0db3c5079efbb9671d8051bfc559c8b4359"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
 metafile = true
@@ -157,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "f7c1ced1b6c40a24ddb8c630c5ac906e4cecbd1039cea8cfe6992d899350514f"
+metafile = true
+
+[[files]]
+file = "mods/displaycase.pw.toml"
+hash = "bdbe66b6cca11b845bfebac2ce0821b119b8518f6deef8ceb9897bd7df1476f6"
 metafile = true
 
 [[files]]
@@ -335,6 +345,11 @@ hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-herbal-brews.pw.toml"
+hash = "1fc98affc9830a4f23ca858d16014cd04655341f519418c1b9e38be588c6518a"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "d7ed4aa2c8e01de8d38b08f96b7f10dac30b96df1c1e7f4b924588a36f5bdca3"
 metafile = true
@@ -412,6 +427,16 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
+metafile = true
+
+[[files]]
+file = "mods/plushables.pw.toml"
+hash = "47221b44d91cdcf6879e388f6befb87ce66e6ad1cc27c8e66752009e724f3d87"
+metafile = true
+
+[[files]]
+file = "mods/plushie-buddies.pw.toml"
+hash = "24b409a94f85209970ea0955297e967b797d5c686b5624c338dedfecbcee3292"
 metafile = true
 
 [[files]]
