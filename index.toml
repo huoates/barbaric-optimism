@@ -2,11 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "6def9debd58119bf7b14b620a6205fcb5bc2b1ac7d8a109e65d3628e8bf5447d"
-
-[[files]]
-file = "masons_mod_list.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "05a7c9a298213606f517322be94bdd7c4663cb7074d3bf9024181e538c5727b8"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -199,11 +195,6 @@ hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "541bc7551355a4d6f18317de874b5435f65cbe6eb1f225cca6bcb6477ccf42af"
-metafile = true
-
-[[files]]
 file = "mods/exposure-polaroid.pw.toml"
 hash = "100837696160db091e1673bcd7d0c40a63cd871d1f635b77e7287fa3ed043227"
 metafile = true
@@ -304,11 +295,6 @@ hash = "7f490cefaf85f70b2c0ef3b3ecf73fec1d357ac6786e593298e0240541b34f05"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
 metafile = true
@@ -346,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "d7ed4aa2c8e01de8d38b08f96b7f10dac30b96df1c1e7f4b924588a36f5bdca3"
+metafile = true
+
+[[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
 metafile = true
 
 [[files]]
@@ -439,6 +430,11 @@ hash = "d410970309efdb9a6e8cd0a890a8e509a9bdef008c64e7449926f7539ebf844c"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "18acfb6f1a54fea702fee947029a260ff6ac865aad5fc64a3ed6193eabac830a"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "73d95acff6b0a5d3b64722f6959421853b5e4fca656d42d2cbf1fd5d3e76813c"
 metafile = true
@@ -491,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "dc7140923a01338926a9bea3708b12ddc2599c1bb6c52b5dc624dbdcdde9385e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
 metafile = true
 
 [[files]]
@@ -561,11 +562,6 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "29b33bd2ee22f33878ca019f4866144ab2ca5b2f965c9f12706ad5ad206281ae"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "73bd0f39a0f6673737497e442cb467554e250576a7267cf4db5ec72ef17dfe58"
 metafile = true
 
 [[files]]
