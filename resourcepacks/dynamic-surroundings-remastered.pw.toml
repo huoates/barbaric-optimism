@@ -1,0 +1,13 @@
+name = "Dynamic Surroundings Sounds Pack"
+filename = "§6Dynamic§9Surroundings §2R21.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb477f97506830bb7a799b6734713cfa6eaf49ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8117193
+project-id = 993859

@@ -1,0 +1,13 @@
+name = "Barbaric Optimism"
+author = "Barbaric Huo Optimism"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "91973b8be0fae8ec399cf065c279e6da815ae8b567fb2675e51a255802e81d8e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.231"

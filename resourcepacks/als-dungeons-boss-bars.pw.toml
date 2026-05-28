@@ -1,0 +1,13 @@
+name = "AL's Dungeons Boss Bars"
+filename = "AL's Dungeons Boss Bars 1.0.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "baac8f7572638940de6e39948d0ae7cc7fbfc204"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7766324
+project-id = 1274496
