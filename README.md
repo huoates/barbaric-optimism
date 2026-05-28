@@ -46,3 +46,11 @@
 4.  When prompted, **paste the repository URL:** `https://github.com/microsoft/Barbaric-Optimism.git`
 5.  **Choose a directory** on your local machine where you want to clone the repository. It is recommended to be somehwere like `C:\GitHub\` and outside of your One Drive
 6.  After the cloning process is complete, VS Code will ask if you'd like to open the cloned repository. Select **"Open"**.
+
+# Use Packwiz to Export Modpack to Curseforge
+
+1. Open your terminal within VS Code and use `packwiz curseforge export` to export the modpack to a zip file
+
+# Import into Prism Launcher
+
+1. In Prism Launcher - click Add Instance -> Import and point to the newly created .zip file
