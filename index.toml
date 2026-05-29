@@ -86,6 +86,11 @@ hash = "2b75c579e6dec00700a1a8407769020370b9ba11d52bacd0ea893d564d91b965"
 metafile = true
 
 [[files]]
+file = "mods/better-trees.pw.toml"
+hash = "014c498f953bdc284f944cb2574f153c165ec5332ddbfa4acd2e7d956a30fe61"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-inspector.pw.toml"
 hash = "07dc1cf44308781821a2a96cacacc343c9669e75d13f963ac32b865f228d8af9"
 metafile = true
