@@ -445,6 +445,11 @@ hash = "1fc98affc9830a4f23ca858d16014cd04655341f519418c1b9e38be588c6518a"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "ec9d06ac76e4017bbfbae4ecd54702071b796b502ac8eabb682705ef71c8d671"
+metafile = true
+
+[[files]]
 file = "mods/loot-journal-neoforge.pw.toml"
 hash = "8888b1210d167a0a6cd21a078da4f3523dba31cbe2aab03a634e5cdc50fede4d"
 metafile = true
@@ -722,6 +727,11 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "9270ec85892fcda4278323af9f9e4cf8e847ee9295c108eb21240f7b66ff1005"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "8e960a7f77607e87c81898bfe6649fc051df8e71ff995f05f9a0c2a22b72f55f"
 metafile = true
 
 [[files]]
