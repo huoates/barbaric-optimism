@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
-hash = "df34236e43c955ceb2b0a267ae280bc3adc747d71d70aa6f58a5ca3bbe2e895e"
+hash = "559997348e6cf4020ca79d65cd05716b2d58ae6d138fae6b5681f358a90cb88d"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "9f633d92440c43d32008b7725a60175cccc3604cea2dd8e3493e0b11c06a3181"
+hash = "a5db5e6e8bf872f6563aeecb7efbc2614cfd0864e2d6c2d5393d9787c611f76d"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/neocontinuity.pw.toml"
-hash = "43cc8cd706b5f8abcf9f013ea4934100826109a57a920acfdab0d01c8cfef8f1"
+hash = "8f35cebc29e664e9a3d840f6ce716e266470813c72b8ad2f2b64521e49739e2e"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "8eaab8f312c3a1a72e7d9e9123bbfef2a7dcac7dd7d8f9eab72fb7c0d25b021e"
+hash = "934a295ab2d16e5bd86a61e14c2cd88f57fc107501ff0079beac341eda2d9e59"
 metafile = true
 
 [[files]]
