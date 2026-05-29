@@ -176,6 +176,11 @@ hash = "f63505f8b03d21eaa2d91259b2f42b5ba6e2c6136d0dd463739820109f89536f"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
@@ -423,11 +428,6 @@ metafile = true
 [[files]]
 file = "mods/kambrik.pw.toml"
 hash = "e15a2be839f2039ffb594185565644f9b81595dfd1152891b9e85b531fb55ae2"
-metafile = true
-
-[[files]]
-file = "mods/keep-some-modded-inventory.pw.toml"
-hash = "1141e6ccb56f06eeab5a3cf8df1afc63a428cfaeb127aed8dff4dcf6c09a0711"
 metafile = true
 
 [[files]]
