@@ -196,8 +196,8 @@ hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
-file = "mods/cool-rain.pw.toml"
-hash = "e8bfe6030b00a3b72b44359ed1e80f956be308b9c6b371619f3776aef33c3ff0"
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "5a46cbcb6b8aa31aeb63f7e32848000d8897bf36acb033632f9caefd34de3f28"
 metafile = true
 
 [[files]]
