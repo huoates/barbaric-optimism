@@ -2,9 +2,9 @@ name: Deploy Dev
 
 on:
   push:
-    branches: [ "dev" ]
+    branches: [ "dev", "main" ]
   pull_request:
-    branches: [ "dev" ]
+    branches: [ "dev", "main" ]
 
   workflow_dispatch:
 
@@ -17,19 +17,37 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout dev branch
         uses: actions/checkout@v4
+        with:
+            ref: dev
+            path: 'dev'
+
+
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+            ref: main
+            path: 'main'
 
       - name: Set up Go
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v6
         with:
           go-version: stable
+          cache: true
+          cache-dependency-path: ''
 
       - name: Install Packwiz
         run: go install github.com/packwiz/packwiz@latest
 
-      - name: Packwiz Refresh
-        run: packwiz refresh --build
+      - name: Packwiz Refresh (dev)
+        run: |
+          cd dev
+          packwiz refresh --build
+      - name: Packwiz Refresh (main)
+        run: |
+          cd main
+          packwiz refresh --build
     
       - name: Setup Pages
         uses: actions/configure-pages@v6
