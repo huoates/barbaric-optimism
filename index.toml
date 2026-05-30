@@ -196,6 +196,11 @@ hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain.pw.toml"
+hash = "e8bfe6030b00a3b72b44359ed1e80f956be308b9c6b371619f3776aef33c3ff0"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
 metafile = true
@@ -446,6 +451,11 @@ hash = "5a1604eb3c113c5a540de4768de72660ea652b41730ea318798a24b9f60d88b7"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tweaks-refoxed.pw.toml"
+hash = "445b323ba9a34faa2ad10207f41aac9da7eeac8e13cd66c771ba026e8bccaaf1"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
@@ -498,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "ae3011cafa9f176b35171053a06dafa69674171f4a840246fcf0870b84ef7b99"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
 
 [[files]]
@@ -556,6 +571,11 @@ hash = "1fdc9f223056e1d30756893feef6bfe32489f004fc41b75ccbb43adc98b561c0"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
+metafile = true
+
+[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "02c4f941c76c49cbaeb17e549dc0e37562ff5cbd6ca51fec9d8da3bb73538507"
 metafile = true
@@ -583,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "4951b27e1384561d2af4ee8abd94ca74874a170eef4790b9c74a1d1ffc3ac63b"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "e978a7103f350ad94ec62040fbe93b5499f6678ae0930030552e4e3058346cef"
 metafile = true
 
 [[files]]
@@ -723,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "8e87d947e258a9009357169f1f1ff88d3dac32cd61e58e8de2d365c8e4194fd2"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
