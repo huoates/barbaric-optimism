@@ -61,6 +61,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/armory-rpg-series.pw.toml"
+hash = "72283b5fa49f1c1d2c2b3e11c03d2e41c917590e7d1e93efbb03171b6e08c43e"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "c3982f2b1a7a163751e882ee0b42b53c3c17b665d50f5f2ad320e6b92e0bf329"
 metafile = true
@@ -146,6 +151,11 @@ hash = "aee01693966b5055bbb2b3eb107356b5adb5e56449cf4373fce661e4f2322b8f"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "9a01b869005f93b0c255d5506f601ea65ff4dac49b054e8e25d7cc9d0a67efac"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
@@ -198,6 +208,16 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "b0666ac2531837c0ac53374a6b9e72ea4b981b721fc7a94701e0f82bb806fca6"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "09f8e2af6cb0a5151a44390389ec62012296ec069dd21eb418079e17b48c2f18"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "fcffeffc0b8f4fb24c213e7d69449fca45ef80c8ed618409996e5b2f0f751d2c"
 metafile = true
 
 [[files]]
@@ -263,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "04cba5d12b1262ba3a1d89caae20c5e44a9010f050c549ff91f2661fb796dc7b"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "db652d3e04c7b6d861f47b78a346f53ac59aae153ab0fa442b887efa4a5d1ed9"
 metafile = true
 
 [[files]]
@@ -391,6 +416,11 @@ hash = "892c3b85c8a0c86e799a5dd2a97f016db9f71ae8b30f893908d1cf6e57cb7acc"
 metafile = true
 
 [[files]]
+file = "mods/golem-overhaul.pw.toml"
+hash = "fc00a8c0df0c8f87f9090360e4e1178d88884fb4fe9b43cbc97929cb28c47885"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "69ef7b9dff233b3279f9b251cfafc7ba13f319a963bfdadb86d0286e32ec60bb"
 metafile = true
@@ -451,6 +481,11 @@ hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ba6ed084c0638b2278609e9f63ac9851c796201aaab9962ed93625962c2c1bca"
+metafile = true
+
+[[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "00e85c69f791fd8a1b86f9e9bef829175ba680783e023004024cd6f72e0d8a81"
 metafile = true
@@ -482,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
+hash = "a03b7bdf3eb3442d8cf9fa9008d02f5137195ef36d52ff8bbdd1558cf8c421a4"
 metafile = true
 
 [[files]]
@@ -511,6 +546,11 @@ hash = "54d61dcf34eec5aa12eea8f71a0531d64174697e36a6572adecd8dada43e747f"
 metafile = true
 
 [[files]]
+file = "mods/nightlights.pw.toml"
+hash = "7c7ea385de9d4b537e44897dc86907c9bce3f25826480011a320ccb1e25d56e0"
+metafile = true
+
+[[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "1fdc9f223056e1d30756893feef6bfe32489f004fc41b75ccbb43adc98b561c0"
 metafile = true
@@ -528,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/obscure-tooltips.pw.toml"
 hash = "c5046c9da8f54dfe80411233af82949e60095f82707af5164f0aac71ed55c57d"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "59f0b6861c8523f77384d5a9d19ce0ffa6ca8c17d0663cf3c6d60167d8dd61bd"
 metafile = true
 
 [[files]]
@@ -586,6 +631,11 @@ hash = "d410970309efdb9a6e8cd0a890a8e509a9bdef008c64e7449926f7539ebf844c"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
 metafile = true
@@ -601,8 +651,8 @@ hash = "78b2ea7767311e3712287d6f2b64d1e5487d3aded290e4b4a7502fbed2478219"
 metafile = true
 
 [[files]]
-file = "mods/reliquified-l-ender-s-cataclysm.pw.toml"
-hash = "0a11dfdd0fbfcdd535bc610fb2d9b9694eb13c40b757c4a686228d2b7da6fb5e"
+file = "mods/resourceful-config.pw.toml"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
 metafile = true
 
 [[files]]
@@ -801,38 +851,38 @@ hash = "10815a3aa6dc436f8aa9b86dbb68368fbbcaff26f15fb06113b519b678e1a480"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
-hash = "e69be521bff22311441c2ea7925bb797b685c18a77757378f8788b135548a8ee"
+file = "mods/yungs-better-dungeons-neoforge.pw.toml"
+hash = "b6527599723cd47781e0e2eb029ba1858ecd000e5d6a972c5497838b6fb967bb"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-end-island.pw.toml"
-hash = "47b9feb2a4885219b0766520de67a0ea5fa387543188badfaede174e7490b067"
+file = "mods/yungs-better-end-island-neoforge.pw.toml"
+hash = "2e763194942381a7829dc6eb0503930a97408ee31ad7d05c77c6d094499e40d3"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "496ebeea36e9b73f5858e4a730dd90d2aba61f9d8c85bae41549564a4e438519"
+file = "mods/yungs-better-jungle-temples-neoforge.pw.toml"
+hash = "6dc8b6b822d296d026dc2685f57da95746e57f30f501640801546ba7a259b520"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-mineshafts-forge.pw.toml"
-hash = "0a786416dcef1b24033a9c652e1e0fc6c97b77cfdfab3b65d4f3cd87377d3a69"
+file = "mods/yungs-better-mineshafts-neoforge.pw.toml"
+hash = "c2053af07ae41f932040eaa078a7d22438cbb0bf16ebcf0926740dd8777f9498"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "e5c942089bd840a39aa6f2ab80bb7e555d2733efc119d59e4e2286ab00a4b8a0"
+file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
+hash = "66100a73e80ebb36aa78789dbcd49b2485459e834b75f7b2e893cc11c06f9a3f"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "fc424be6d37c39981001e126d1ce0923ccec89d5efff6ffa3854b4f6f20a6592"
+file = "mods/yungs-better-ocean-monuments-neoforge.pw.toml"
+hash = "aa8b30f1fedc700205ffb96c2a92e0deedbbe42f3d95d64c2fcc1228fdd049aa"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "3c30c032674bfd22ef88cf87dcfd4445c7dbc86bf05dc7f14df584c30315aee0"
+file = "mods/yungs-better-strongholds-neoforge.pw.toml"
+hash = "0a47325379d60e0886ab96a8c247ae8820bcb1a4a8ae53d855a50a99f6cab4ca"
 metafile = true
 
 [[files]]
