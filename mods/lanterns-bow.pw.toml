@@ -1,0 +1,13 @@
+name = "Lanterns Belong on Walls"
+filename = "walllanterns-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "530e5bbfed6d25c6a73fb47e68011db306338c3e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8016291
+project-id = 596474

@@ -405,6 +405,10 @@ file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lanterns-bow.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lendercataclysm.pw.toml"
 metafile = true
 
@@ -750,6 +754,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/als-dungeons-boss-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
 metafile = true
 
 [[files]]
