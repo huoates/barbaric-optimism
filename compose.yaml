@@ -1,3 +1,5 @@
+version: '3.8'
+
 services:
   mc:
     image: itzg/minecraft-server:java21
@@ -11,7 +13,7 @@ services:
       #MODPACK_PLATFORM: AUTO_CURSEFORGE
       TYPE: "NEOFORGE"
       VERSION: "1.21.1"
-      PACKWIZ_URL: "http://huoates.github.io/barbaric-optimism/dev/pack.toml"
+      PACKWIZ_URL: "http://huoates.github.io/barbaric-optimism/main/pack.toml"
       MEMORY: "6G"
       EULA: "TRUE"
       ENABLE_RCON: "true"
@@ -22,7 +24,7 @@ services:
       SERVER_NAME: "OPTIHUODATA MODPACK"
       MOTD: "Welcome to OPTIHUODATA MODPACK!"
     volumes:
-      - mc_data:/data
+      - ${MC_DATA_DIRECTORY}:/data
   
   backup:
     image: itzg/mc-backup:latest
@@ -33,12 +35,9 @@ services:
       RCON_PASSWORD: ${MC_RCON_PASSWORD}
       BACKUP_CRON_EXPRESSION: "0 4 * * *"
     volumes:
-      - mc_data:/data:ro
-      - mc_backups:/backups
+      - ${MC_DATA_DIRECTORY}:/data:ro
+      - ${MC_BACKUP_DIRECTORY}:/backups
     depends_on:
       - mc
 
       
-volumes:
-  mc_data:
-  mc_backups:
