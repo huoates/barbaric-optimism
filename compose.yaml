@@ -1,6 +1,7 @@
 services:
   mc:
     image: itzg/minecraft-server:java21
+    container_name: mc-server
     tty: true
     stdin_open: true
     #restart: unless-stopped
@@ -13,12 +14,31 @@ services:
       PACKWIZ_URL: "http://huoates.github.io/barbaric-optimism/dev/pack.toml"
       MEMORY: "6G"
       EULA: "TRUE"
+      ENABLE_RCON: "true"
+      RCON_PORT: 25575
+      RCON_PASSWORD: "${MC_RCON_PASSWORD}"
       PVP: "FALSE"
       JVM_EXTRA_OPTS: "-XX:+UseZGC"
       SERVER_NAME: "OPTIHUODATA MODPACK"
       MOTD: "Welcome to OPTIHUODATA MODPACK!"
     volumes:
       - mc_data:/data
+  
+  backup:
+    image: itzg/mc-backup:latest
+    container_name: mc_backup
+    environment:
+      RCON_HOST: mc
+      RCON_PORT: 25575
+      RCON_PASSWORD: ${MC_RCON_PASSWORD}
+      BACKUP_CRON_EXPRESSION: "0 4 * * *"
+    volumes:
+      - mc_data:/data:ro
+      - mc_backups:/backups
+    depends_on:
+      - mc
+
       
 volumes:
   mc_data:
+  mc_backups:
