@@ -54,3 +54,35 @@
 # Import into Prism Launcher
 
 1. In Prism Launcher - click Add Instance -> Import and point to the newly created .zip file
+
+# Running and Testing the Development Server Modpack
+
+This section outlines the process for running and testing the **server-side** of the development modpack. While client-side and single-player modpack testing can be done by exporting with `packwiz curseforge export` and loading into Prism Launcher, the primary goal of this section is to confirm that the **server** will be able to start correctly without issues before merging changes into the production branch.
+
+## Automatic Publication to GitHub Pages
+
+After a Pull Request (PR) is merged into the `dev` branch, GitHub Actions automatically publishes the packwiz files to GitHub Pages. This ensures that the `compose.yaml` file always references the latest development version.
+
+## Prerequisites (Windows)
+
+To run the development modpack on Windows, you will need:
+
+1.  **Docker Desktop:** This is essential for running containerized applications. Docker Desktop also assists with the installation and enablement of the Windows Subsystem for Linux (WSL), which is a prerequisite.
+2.  **Windows Subsystem for Linux (WSL):** Docker Desktop will guide you through enabling WSL if it's not already active on your system.
+
+## Using Docker Compose with VS Code
+
+The VS Code Docker extension can greatly simplify the process of working with Docker Compose:
+
+*   **GUI for Docker Compose:** The extension provides a graphical user interface (GUI) for interacting with your `compose.yaml` file.
+*   **Start and Stop Containers:** You can easily start and stop your Docker containers directly from VS Code, eliminating the need to switch to Docker Desktop.
+
+### Steps to Run the Modpack
+
+1.  **Open `compose.yaml`:** In your repository, right-click on the `compose.yaml` file.
+2.  **"Compose Up":** Select the "Compose Up" option from the context menu. This will build and start the services defined in your `compose.yaml`.
+3.  **Manage from Docker Tab:** Once started, you can manage the container (start, stop, restart) from the Docker tab located on the left-hand side of VS Code.
+
+### Important Note on Local Changes
+
+The `compose.yaml` file is configured to always point to the `dev` section of GitHub Pages. This means that any changes made to your local branches will **not** be reflected when the modpack is run through Docker Compose until those changes have been merged into the `dev` branch.

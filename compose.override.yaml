@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  mc:
+    environment:
+      PACKWIZ_URL: "http://huoates.github.io/barbaric-optimism/dev/pack.toml"
+    volumes:
+      - mc_data:/data
+  backup:
+    volumes:
+      - mc_data:/data:ro
+      - mc_backups:/backups
+
+volumes:
+  mc_data:
+  mc_backups:
