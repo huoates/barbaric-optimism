@@ -21,6 +21,10 @@ file = "mods/accessories.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/accessorify.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/adorable-hamster-pets.pw.toml"
 metafile = true
 
