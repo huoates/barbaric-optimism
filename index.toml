@@ -100,10 +100,6 @@ file = "mods/better-trees.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/biomeinfo.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-inspector.pw.toml"
 metafile = true
 
