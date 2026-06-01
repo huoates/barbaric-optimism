@@ -9,6 +9,21 @@ file = "complementary-unbound.pw.toml"
 metafile = true
 
 [[files]]
+file = "compose.override.yaml"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+
+[[files]]
 file = "makeup-ultra-fast-shader.pw.toml"
 metafile = true
 
@@ -165,6 +180,10 @@ file = "mods/configured.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 metafile = true
 
@@ -194,6 +213,10 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
 metafile = true
 
 [[files]]
@@ -574,6 +597,10 @@ metafile = true
 
 [[files]]
 file = "mods/rune-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
 metafile = true
 
 [[files]]
