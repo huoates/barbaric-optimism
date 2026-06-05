@@ -393,7 +393,7 @@ dismountOrder = "LIFO"
 # Choose what action dismounts the hamster. 'SNEAK_KEY' uses your sneak key, obviously. 'CUSTOM_KEYBIND' uses a separate key you must set in Controls > Key Binds.
 dismountTriggerType = "SNEAK_KEY"
 # Choose whether a single press or a quick double‑tap dismounts the hamster.
-dismountPressType = "SINGLE_PRESS"
+dismountPressType = "DOUBLE-TAP"
 # Max time between sneak key presses to count as a double-tap. (20 ticks = 1 second)
 doubleTapDelayTicks = 10
 # If true, hamsters on your shoulder will randomly cycle through standing, sitting, and laying down while on the shoulder. If false, they will remain in a single state defined below.
@@ -437,9 +437,9 @@ standardFoodHealing = 2.0
 # If true, baby hamsters lose their refined palates and will eagerly gorge themselves on the same seeds repeatedly, in case you want to grow them up faster.
 disableBabyFoodRefusal = false
 # How many little hunger shanks the cheese restores. Vanilla cooked steak is 8. I know you're thinking of moving it to 20, you monster.
-cheeseNutrition = 8
+cheeseNutrition = 3
 # How long the hunger effect lasts. Cooked steak is 0.8. Don't get too crazy. Or do. I'm not your conscience.
-cheeseSaturation = 0.8
+cheeseSaturation = 0.3
 # Vanilla dried kelp is 1 (0.5 hearts).
 slicedCucumberNutrition = 1
 # Dried kelp is 0.3.
