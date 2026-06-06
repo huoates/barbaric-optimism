@@ -15,6 +15,9 @@ file = "compose.override.yaml"
 file = "config/Xaero/minimap/profiles/info_display_config/default.cfg.txt"
 
 [[files]]
+file = "config/adorablehamsterpets/main.toml"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 
 [[files]]
@@ -25,6 +28,9 @@ file = "config/sereneseasons/fertility.toml"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
+
+[[files]]
+file = "config/smallships-common.toml"
 
 [[files]]
 file = "makeup-ultra-fast-shader.pw.toml"
