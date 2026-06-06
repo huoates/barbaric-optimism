@@ -12,6 +12,9 @@ metafile = true
 file = "compose.override.yaml"
 
 [[files]]
+file = "config/Xaero/minimap/profiles/info_display_config/default.cfg.txt"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 
 [[files]]
