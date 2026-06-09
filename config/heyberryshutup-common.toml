@@ -4,6 +4,6 @@
 	#Wearing boots and leggings prevent players from taking damage in berry bushes and on cactus
 	disableDamageWhenArmored = true
 	#Disable berry damage for all entities. If set to true, the other configs do not matter.
-	disableBerryDamage = false
+	disableBerryDamage = true
 	#Disable cactus damage for all entities. If set to true, the other configs do not matter.
 	disableCactusDamage = false
