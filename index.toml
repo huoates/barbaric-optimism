@@ -245,6 +245,10 @@ file = "mods/distraction-free-recipes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 metafile = true
 
