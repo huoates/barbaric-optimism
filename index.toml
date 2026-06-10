@@ -425,6 +425,10 @@ file = "mods/jei.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences-forge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 metafile = true
 
