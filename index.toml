@@ -809,9 +809,5 @@ file = "resourcepacks/better-lanterns.pw.toml"
 metafile = true
 
 [[files]]
-file = "resourcepacks/dynamic-surroundings-remastered.pw.toml"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 metafile = true
