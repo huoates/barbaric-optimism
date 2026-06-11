@@ -265,6 +265,10 @@ file = "mods/emi-loot.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 metafile = true
 
