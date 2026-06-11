@@ -193,6 +193,10 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/convenient-effects.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
 metafile = true
 
