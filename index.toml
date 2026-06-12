@@ -516,6 +516,10 @@ file = "mods/magnesium-extras.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mighty-mail.pw.toml"
 metafile = true
 
