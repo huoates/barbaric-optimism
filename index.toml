@@ -92,6 +92,10 @@ file = "mods/ars-nouveau.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ash-api.pw.toml"
 metafile = true
 
