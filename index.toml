@@ -205,6 +205,10 @@ file = "mods/cool-rain-reforged.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 metafile = true
 
