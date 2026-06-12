@@ -593,6 +593,10 @@ file = "mods/prickle.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/puffish-skills.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
@@ -662,6 +666,10 @@ metafile = true
 
 [[files]]
 file = "mods/simplehats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/skill-tree.pw.toml"
 metafile = true
 
 [[files]]
