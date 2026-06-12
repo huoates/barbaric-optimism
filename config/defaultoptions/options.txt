@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["fabric"]
+resourcePacks:["vanilla","fabric","generated/fragmentum_layer","mod_resources","eatinganimations_compat","moonlight:merged_pack","file/Better+Lanterns+v1.2(mc-1.21).zip","mod/accessorify:resourcepacks/1_21_1/rp"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

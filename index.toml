@@ -24,6 +24,9 @@ file = "config/defaultoptions/keybindings.txt"
 file = "config/defaultoptions/options.txt"
 
 [[files]]
+file = "config/heyberryshutup-common.toml"
+
+[[files]]
 file = "config/sereneseasons/fertility.toml"
 
 [[files]]
@@ -57,6 +60,10 @@ file = "mods/ambientsounds.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -82,6 +89,10 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
 metafile = true
 
 [[files]]
@@ -193,7 +204,19 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/convenient-effects.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cool-rain-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
 metafile = true
 
 [[files]]
@@ -245,6 +268,14 @@ file = "mods/distraction-free-recipes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-difficulty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 metafile = true
 
@@ -262,6 +293,10 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
 metafile = true
 
 [[files]]
@@ -425,6 +460,14 @@ file = "mods/jei.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jewelry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences-forge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kambrik.pw.toml"
 metafile = true
 
@@ -438,10 +481,6 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lanterns-bow.pw.toml"
 metafile = true
 
 [[files]]
@@ -474,6 +513,10 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
 metafile = true
 
 [[files]]
@@ -565,6 +608,10 @@ file = "mods/prickle.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/puffish-skills.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
@@ -582,6 +629,10 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/relics-rpg.pw.toml"
 metafile = true
 
 [[files]]
@@ -634,6 +685,10 @@ metafile = true
 
 [[files]]
 file = "mods/simplehats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/skill-tree.pw.toml"
 metafile = true
 
 [[files]]
@@ -729,6 +784,10 @@ file = "mods/vanillabackport.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/wits.pw.toml"
 metafile = true
 
@@ -797,11 +856,11 @@ file = "resourcepacks/als-dungeons-boss-bars.pw.toml"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-lanterns.pw.toml"
+file = "resourcepacks/attribute-icons-rpg-series-resource-pack.pw.toml"
 metafile = true
 
 [[files]]
-file = "resourcepacks/dynamic-surroundings-remastered.pw.toml"
+file = "resourcepacks/better-lanterns.pw.toml"
 metafile = true
 
 [[files]]
