@@ -24,6 +24,9 @@ file = "config/defaultoptions/keybindings.txt"
 file = "config/defaultoptions/options.txt"
 
 [[files]]
+file = "config/heyberryshutup-common.toml"
+
+[[files]]
 file = "config/sereneseasons/fertility.toml"
 
 [[files]]
@@ -814,6 +817,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/als-dungeons-boss-bars.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/attribute-icons-rpg-series-resource-pack.pw.toml"
 metafile = true
 
 [[files]]
