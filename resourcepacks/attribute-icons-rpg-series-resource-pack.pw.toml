@@ -1,0 +1,13 @@
+name = "Attribute Icons (RPG Series)"
+filename = "RPG_Series_Icons-1.4.0+1.21.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "b0d64757bf3d7f52ad6551fc943e8def76275ecc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7202484
+project-id = 1335127
