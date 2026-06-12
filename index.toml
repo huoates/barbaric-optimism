@@ -453,6 +453,10 @@ file = "mods/jei.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/jewelry.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jump-over-fences-forge.pw.toml"
 metafile = true
 
