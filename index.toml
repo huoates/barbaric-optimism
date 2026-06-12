@@ -261,6 +261,10 @@ file = "mods/distraction-free-recipes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-difficulty.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
