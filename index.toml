@@ -621,6 +621,10 @@ file = "mods/relics-mod.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/relics-rpg.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/reliquified-ars-nouveau.pw.toml"
 metafile = true
 
